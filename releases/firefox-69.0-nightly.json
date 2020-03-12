@@ -1,0 +1,16 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Nightly",
+  "created": "2020-03-12T19:51:04.880220+00:00",
+  "is_public": false,
+  "modified": "2020-03-12T19:51:04.879989+00:00",
+  "notes": [],
+  "product": "Firefox",
+  "release_date": "2020-03-12",
+  "slug": "firefox-69.0-nightly",
+  "system_requirements": "One sweet machine.",
+  "text": "Nice",
+  "title": "Firefox 69.0 Nightly",
+  "version": "69.0"
+}
