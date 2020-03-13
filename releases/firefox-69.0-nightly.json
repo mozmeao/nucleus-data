@@ -23,6 +23,16 @@
       "note": "The worlds best note. This release is super awesome. Seriously. Yeah.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 654987,
+      "created": "2020-03-13T20:52:31.761253+00:00",
+      "id": 2,
+      "is_public": true,
+      "modified": "2020-03-13T20:52:31.761068+00:00",
+      "note": "The 2nd note. Clearly better than the first. Yeah.",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
