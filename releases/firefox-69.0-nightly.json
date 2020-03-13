@@ -5,7 +5,18 @@
   "created": "2020-03-12T19:51:04.880220+00:00",
   "is_public": true,
   "modified": "2020-03-13T17:28:58.335606+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 12345,
+      "created": "2020-03-12T19:44:28.566902+00:00",
+      "id": 1,
+      "is_public": false,
+      "modified": "2020-03-13T17:39:57.530826+00:00",
+      "note": "The worlds best note. This release is super awesome. Seriously.",
+      "sort_num": 0,
+      "tag": "Known"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2020-03-13",
   "slug": "firefox-69.0-nightly",
