@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2020-03-12T19:51:04.880220+00:00",
   "is_public": true,
-  "modified": "2020-03-13T17:28:58.335606+00:00",
+  "modified": "2020-03-17T21:15:45.807220+00:00",
   "notes": [
     {
       "bug": 12345,
@@ -38,7 +38,7 @@
   "product": "Firefox",
   "release_date": "2020-03-13",
   "slug": "firefox-69.0-nightly",
-  "system_requirements": "One sweet machine.",
+  "system_requirements": "One sweet machine. All machines are sweet that have the Fox.",
   "text": "Nice",
   "title": "Firefox 69.0 Nightly",
   "version": "69.0"
