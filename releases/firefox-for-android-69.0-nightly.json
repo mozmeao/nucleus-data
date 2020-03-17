@@ -26,6 +26,16 @@
     },
     {
       "bug": 654987,
+      "created": "2020-03-13T20:52:31.761253+00:00",
+      "id": 2,
+      "is_public": true,
+      "modified": "2020-03-17T21:51:59.934379+00:00",
+      "note": "The 2nd note. Clearly better than the first. Yeah.",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 654987,
       "created": "2020-03-13T20:55:42.244549+00:00",
       "id": 3,
       "is_public": true,
