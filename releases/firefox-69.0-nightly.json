@@ -4,8 +4,26 @@
   "channel": "Nightly",
   "created": "2020-03-12T19:51:04.880220+00:00",
   "is_public": true,
-  "modified": "2020-03-18T03:33:13.479573+00:00",
+  "modified": "2020-03-18T03:32:52.191673+00:00",
   "notes": [
+    {
+      "bug": 12345,
+      "created": "2020-03-12T19:44:28.566902+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-69.0-nightly",
+        "title": "Firefox 69.0 Nightly",
+        "version": "69.0"
+      },
+      "id": 1,
+      "is_public": false,
+      "modified": "2020-03-18T00:58:13.208996+00:00",
+      "note": "The worlds best note. This release is super awesome. Seriously. Yeah.",
+      "sort_num": 0,
+      "tag": "New"
+    },
     {
       "bug": 12345,
       "created": "2020-03-13T20:58:12.829494+00:00",
@@ -39,7 +57,7 @@
       "created": "2020-03-13T20:55:42.244549+00:00",
       "id": 3,
       "is_public": true,
-      "modified": "2020-03-18T03:33:38.915445+00:00",
+      "modified": "2020-03-18T01:01:16.826768+00:00",
       "note": "The 2nd note. Clearly better than the first. Yeah.",
       "sort_num": 0,
       "tag": "Known"
